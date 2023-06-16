@@ -1,0 +1,2 @@
+# MaxAI
+Just for FUN
